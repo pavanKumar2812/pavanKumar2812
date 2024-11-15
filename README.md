@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Vision Engineer
 ------------------------
 
-*👨‍💻 Tech Enthusiast | Software Developer - Passionate about IoT, Computer Vision, and cutting-edge tech! 🚀 I thrive on building intelligent systems and innovative solutions using Python, TensorFlow, PyTorch, and JavaScript. 💻
-*👁️‍🗨️ Computer Vision Wizard - Mastering the art of image and video processing with OpenCV to craft algorithms that see and understand the world. 📸🧠
-*🌐 Full-Stack Developer - Designing robust, interactive web applications with JavaScript, Python, and more. From frontend to backend, I build seamless experiences. 🔧🖥️
-*🤖 AI & Machine Learning Explorer - Constantly pushing the boundaries of AI and ML. Deep diving into TensorFlow to unlock new solutions for real-world problems. 🔬💡
-*🤝 Collaborator & Innovator - Always up for exciting projects! Let’s create the next big thing together and make an impact in the tech world. ✨🔥
+* 👨‍💻 Tech Enthusiast | Software Developer - Passionate about IoT, Computer Vision, and cutting-edge tech! 🚀 I thrive on building intelligent systems and innovative solutions using Python, TensorFlow, PyTorch, and JavaScript. 💻
+* 👁️‍🗨️ Computer Vision Wizard - Mastering the art of image and video processing with OpenCV to craft algorithms that see and understand the world. 📸🧠
+* 🌐 Full-Stack Developer - Designing robust, interactive web applications with JavaScript, Python, and more. From frontend to backend, I build seamless experiences. 🔧🖥️
+* 🤖 AI & Machine Learning Explorer - Constantly pushing the boundaries of AI and ML. Deep diving into TensorFlow to unlock new solutions for real-world problems. 🔬💡
+* 🤝 Collaborator & Innovator - Always up for exciting projects! Let’s create the next big thing together and make an impact in the tech world. ✨🔥
 
 * 🌍  I'm based in Bengaluru
 * ✉️  You can contact me at [adinanipavankumar@gmail.com](mailto:adinanipavankumar@gmail.com)
